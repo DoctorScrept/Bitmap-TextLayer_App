@@ -1,0 +1,28 @@
+{
+    "author": "renjeka@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "bitmap-text_layer",
+    "pebble": {
+        "displayName": "Bitmap&Text_Layer",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/Weather-m.png",
+                    "name": "IMAGE_SPLASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "uuid": "184a7edc-abc7-421d-86c2-ac659a3bcb87",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
